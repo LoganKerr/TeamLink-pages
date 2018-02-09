@@ -14,4 +14,4 @@ Here is an exclusive glimpse of what we're working on now!
 ## [](#header-3)Contact Us
 Email: TeamLinkProject@gmail.com
 
-Twitter: @TeamLinkProject
+Twitter: [@TeamLinkProject](https://twitter.com/TeamLinkProject)
