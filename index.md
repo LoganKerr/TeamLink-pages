@@ -2,15 +2,9 @@
 layout: default
 ---
 
-[Link to another page](another-page).
+# [](#header-1)What is TeamLink?
 
-There should be whitespace between paragraphs.
-
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
-
-# [](#header-1)Header 1
-
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+TeamLink is a web application where college students and faculty can create and join teams with other students and faculty. From a band, a development team, or even a gaming group, students have the chance to make new friends, cultivate experience, and put their free time to use.
 
 ## [](#header-2)Header 2
 
@@ -119,3 +113,5 @@ Long, single-line code blocks should not wrap. They should horizontally scroll i
 ```
 The final element.
 ```
+
+[Link to another page](another-page).
